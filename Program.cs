@@ -12,6 +12,7 @@ namespace MeuApp
       Console.WriteLine(Mouse.Id);
       Console.WriteLine(Mouse.Name);
       Console.WriteLine(Mouse.Price);
+     // Console.WriteLine("Teste de sincronia com git")
     }
   }
 
